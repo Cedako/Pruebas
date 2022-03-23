@@ -8,3 +8,5 @@ creada rama "are"
 copiaron los archivos de la rama "are" a "master"
 
 se elimino la rama "are"
+
+se movió el repositorio local a la rama master exitosamente.
